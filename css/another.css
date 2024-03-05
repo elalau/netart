@@ -10,6 +10,52 @@ main {
     font-family: 'Monoton', cursive;
     text-align: center;
     padding: 10px;
-    border: 2px navy dashed;  
+}
+
+.tile1 {
+    position: absolute;
+    top: 70px;
+    left: 700px;
+}
+
+.tile2 {
+    position: absolute;
+    top: 193px;
+    left:610px;
+}
+
+.tile2:hover {
+    background-color: yellow;
+    cursor: pointer; 
+}
+
+.tile3 {
+    position: absolute;
+    top: 193px;
+    right: 710px;
+}
+
+.tile4 {
+    position: absolute;
+    top: 193px;
+    right: 618px;
+}
+
+.tile5 {
+    position: absolute; 
+    top: 318px;
+    left: 430px;
+}
+
+.tile6 {
+    position: absolute; 
+    top: 318px;
+    left: 520px;
+}
+
+.tile7 {
+    position: absolute; 
+    top: 318px;
+    left: 610px;
 }
 
