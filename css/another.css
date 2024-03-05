@@ -59,3 +59,58 @@ main {
     left: 610px;
 }
 
+.tile8 {
+    position: absolute; 
+    top: 318px;
+    left: 700px;
+}
+
+.tile9 {
+    position: absolute; 
+    top: 318px;
+    left: 795px;
+}
+
+.tile10 {
+    position: absolute; 
+    top: 440px;
+    left: 610px;
+}
+
+.tile11 {
+    position: absolute; 
+    top: 440px;
+    left: 700px;
+}
+
+.tile12 {
+    position: absolute; 
+    top: 440px;
+    left: 792px;
+}
+
+.tile13 {
+    position: absolute; 
+    top: 440px;
+    left: 887px;
+}
+
+.tile14 {
+    position: absolute; 
+    top: 440px;
+    left: 983px;
+    border: pink solid 5px;
+}
+
+.tile15 {
+    position: absolute; 
+    top: 565px;
+    left: 886px;
+}
+
+.tile16 {
+    position: absolute; 
+    top: 465px;
+    left: 600px;
+}
+
