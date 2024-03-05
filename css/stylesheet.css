@@ -2,13 +2,40 @@
 
 body {
     background-color: #08CB62;
+    max-width: 1000px;
+    margin: 0 auto; 
 }
 
-h1 {
-    font-family: "Macondo", cursive;
-    font-weight: 800;
-    font-style: normal;
-    color:crimson;
-    text-shadow: 1px 4px 5px goldenrod;
-    font-size: 200px;
+header {
+    width: 100%; 
+    margin: 100px 0px; 
+    font-family: 'Monoton', cursive;
+    text-align: center;
+    padding: 10px;
+    border: 2px navy dashed;  
+}
+
+main {
+    width: 100%; 
+    margin: 20px 0px; 
+    font-family: 'Monoton', cursive;
+    text-align: center;
+    padding: 10px;
+    border: 2px navy dashed;  
+}
+
+button {
+    background-color:white;
+    border: solid black 1px;
+    color: black;
+    padding: 10px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 20px;
+    border-radius: 20%;
+}
+
+button:hover {
+    background-color: cadetblue;
+    color: white;
 }
