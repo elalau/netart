@@ -1,0 +1,32 @@
+body {
+    background-image: url("../img/bg_sixx.png");
+    background-size:cover;
+    max-width: 1000px;
+    margin: 0 auto; 
+}
+
+main {
+    width: 100%; 
+    margin: 20px 0px; 
+    font-family: 'Monoton', cursive;
+    text-align: center;
+    padding: 10px;
+}
+
+.tile11 {
+    position: absolute; 
+    top: 440px;
+    left: 700px;
+    border: pink solid 5px;
+}
+
+.tile16 {
+    position: absolute; 
+    top: 565px;
+    left: 885px;
+}
+
+.tile16:hover {
+    border: solid 3px yellow;
+    cursor: pointer; 
+}

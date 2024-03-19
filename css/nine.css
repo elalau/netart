@@ -1,0 +1,44 @@
+body {
+    background-image: url("../img/bg_five.png");
+    background-size:cover;
+    max-width: 1000px;
+    margin: 0 auto; 
+}
+
+main {
+    width: 100%; 
+    margin: 20px 0px; 
+    font-family: 'Monoton', cursive;
+    text-align: center;
+    padding: 10px;
+}
+
+.tile4 {
+    position: absolute;
+    top: 193px;
+    right: 618px;
+    border: pink solid 5px;
+}
+
+.tile8 {
+    position: absolute; 
+    top: 318px;
+    left: 700px;
+}
+
+.tile8:hover {
+    border: solid 3px yellow;
+    cursor: pointer; 
+}
+
+.tile11 {
+    position: absolute; 
+    top: 440px;
+    left: 700px;
+}
+
+.tile16 {
+    position: absolute; 
+    top: 565px;
+    left: 885px;
+}
