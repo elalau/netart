@@ -1,5 +1,5 @@
 body {
-    background-image: url("../img/bg_three.png");
+    background-image: url("../img/bg_four.png");
     background-size:cover;
     max-width: 1000px;
     margin: 0 auto; 
@@ -13,29 +13,10 @@ main {
     padding: 10px;
 }
 
-.tile2 {
-    position: absolute;
-    top: 193px;
-    left:610px;
-}
-
-.tile3 {
-    position: absolute;
-    top: 193px;
-    right: 710px;
-}
-
 .tile4 {
     position: absolute;
     top: 193px;
     right: 618px;
-}
-
-.tile7 {
-    position: absolute; 
-    top: 318px;
-    left: 610px;
-    border: pink solid 5px;
 }
 
 .tile8 {
@@ -44,16 +25,15 @@ main {
     left: 700px;
 }
 
-.tile9 {
-    position: absolute; 
-    top: 318px;
-    left: 795px;
-}
-
 .tile10 {
     position: absolute; 
     top: 440px;
     left: 610px;
+}
+
+.tile10:hover {
+    border: solid 3px yellow;
+    cursor: pointer; 
 }
 
 .tile11 {
@@ -66,27 +46,11 @@ main {
     position: absolute; 
     top: 440px;
     left: 792px;
-}
-
-.tile15 {
-    position: absolute; 
-    top: 565px;
-    left: 700px;
-}
-
-.tile15:hover {
-    border: solid 3px yellow;
-    cursor: pointer; 
+    border: pink solid 5px;
 }
 
 .tile16 {
     position: absolute; 
     top: 565px;
     left: 885px;
-}
-
-.tile17 {
-    position: absolute; 
-    top: 565px;
-    left: 790px;
 }
