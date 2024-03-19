@@ -31,17 +31,6 @@ main {
     right: 618px;
 }
 
-.tile6 {
-    position: absolute; 
-    top: 318px;
-    left: 520px;
-}
-
-.tile6:hover {
-    border: solid 3px yellow;
-    cursor: pointer; 
-}
-
 .tile7 {
     position: absolute; 
     top: 318px;
@@ -94,11 +83,4 @@ main {
     position: absolute; 
     top: 565px;
     left: 790px;
-}
-
-.tile20 {
-    position: absolute; 
-    top: 375px;
-    left: 742px;
-    border: pink solid 5px;
 }
