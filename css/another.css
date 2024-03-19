@@ -105,12 +105,35 @@ main {
 .tile15 {
     position: absolute; 
     top: 565px;
-    left: 886px;
+    left: 700px;
 }
 
 .tile16 {
     position: absolute; 
-    top: 440px;
-    left: 520px;
+    top: 565px;
+    left: 885px;
 }
 
+.tile17 {
+    position: absolute; 
+    top: 565px;
+    left: 790px;
+}
+
+.tile18 {
+    position: absolute; 
+    top: 250px;
+    left: 650px;
+}
+
+.tile19 {
+    position: absolute; 
+    top: 375px;
+    left: 650px;
+}
+
+.tile20 {
+    position: absolute; 
+    top: 375px;
+    left: 742px;
+}
