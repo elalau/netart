@@ -1,0 +1,116 @@
+body {
+    background-image: url("../img/bg_two.png");
+    background-size:cover;
+    max-width: 1000px;
+    margin: 0 auto; 
+}
+
+main {
+    width: 100%; 
+    margin: 20px 0px; 
+    font-family: 'Monoton', cursive;
+    text-align: center;
+    padding: 10px;
+}
+
+.tile2 {
+    position: absolute;
+    top: 193px;
+    left:610px;
+}
+
+.tile3 {
+    position: absolute;
+    top: 193px;
+    right: 710px;
+}
+
+.tile4 {
+    position: absolute;
+    top: 193px;
+    right: 618px;
+}
+
+.tile5 {
+    position: absolute; 
+    top: 318px;
+    left: 430px;
+    border: pink solid 5px;
+}
+
+.tile6 {
+    position: absolute; 
+    top: 318px;
+    left: 520px;
+}
+
+.tile7 {
+    position: absolute; 
+    top: 318px;
+    left: 610px;
+}
+
+.tile8 {
+    position: absolute; 
+    top: 318px;
+    left: 700px;
+}
+
+.tile9 {
+    position: absolute; 
+    top: 318px;
+    left: 795px;
+}
+
+.tile10 {
+    position: absolute; 
+    top: 440px;
+    left: 610px;
+}
+
+.tile11 {
+    position: absolute; 
+    top: 440px;
+    left: 700px;
+}
+
+.tile12 {
+    position: absolute; 
+    top: 440px;
+    left: 792px;
+}
+
+.tile15 {
+    position: absolute; 
+    top: 565px;
+    left: 700px;
+}
+
+.tile16 {
+    position: absolute; 
+    top: 565px;
+    left: 885px;
+}
+
+.tile17 {
+    position: absolute; 
+    top: 565px;
+    left: 790px;
+}
+
+.tile18 {
+    position: absolute; 
+    top: 250px;
+    left: 650px;
+}
+
+.tile18:hover {
+    border: solid 3px yellow;
+    cursor: pointer; 
+}
+
+.tile20 {
+    position: absolute; 
+    top: 375px;
+    left: 742px;
+}

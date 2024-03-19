@@ -1,5 +1,6 @@
 body {
-    background-image: none;
+    background-image: url("../img/bg_two.png");
+    background-size:cover;
     max-width: 1000px;
     margin: 0 auto; 
 }

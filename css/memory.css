@@ -1,0 +1,23 @@
+body {
+    background-color: black;
+    max-width: 1000px;
+    margin: 0 auto; 
+}
+
+main {
+    width: 100%; 
+    margin: 20px 0px; 
+    font-family: 'Monoton', cursive;
+    text-align: center;
+    padding: 10px;
+}
+
+img {
+    margin-top: 200px;
+} 
+
+button:hover {
+    background-color: blue;
+    color: white;
+    cursor: pointer; 
+}
