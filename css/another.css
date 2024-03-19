@@ -15,8 +15,8 @@ main {
 
 .tile1 {
     position: absolute;
-    top: 70px;
-    left: 700px;
+    top: 4.375em;
+    left: 43.75em;
 }
 
 .tile1:hover {
@@ -26,115 +26,115 @@ main {
 
 .tile2 {
     position: absolute;
-    top: 193px;
-    left:610px;
+    top: 12.0625em;
+    left:38.125em;
 }
 
 .tile3 {
     position: absolute;
-    top: 193px;
-    right: 710px;
+    top: 12.0625em;
+    right: 44.375em;
 }
 
 .tile4 {
     position: absolute;
-    top: 193px;
-    right: 618px;
+    top: 12.0625em;
+    right: 38.625em;
 }
 
 .tile5 {
     position: absolute; 
-    top: 318px;
-    left: 430px;
+    top: 19.875em;
+    left: 26.875em;
 }
 
 .tile6 {
     position: absolute; 
-    top: 318px;
-    left: 520px;
+    top: 19.875em;
+    left: 32.5em;
 }
 
 .tile7 {
     position: absolute; 
-    top: 318px;
-    left: 610px;
+    top: 19.875em;
+    left: 38.125em;
 }
 
 .tile8 {
     position: absolute; 
-    top: 318px;
-    left: 700px;
+    top: 19.875em;
+    left: 38.125em;
 }
 
 .tile9 {
     position: absolute; 
-    top: 318px;
-    left: 795px;
+    top: 19.875em;
+    left: 49.6875em;
 }
 
 .tile10 {
     position: absolute; 
-    top: 440px;
-    left: 610px;
+    top: 27.5em;
+    left: 38.125em;
 }
 
 .tile11 {
     position: absolute; 
-    top: 440px;
-    left: 700px;
+    top: 427.5em;
+    left: 38.125em;
 }
 
 .tile12 {
     position: absolute; 
-    top: 440px;
-    left: 792px;
+    top: 27.5em;
+    left: 49.5em;
 }
 
 .tile13 {
     position: absolute; 
-    top: 440px;
-    left: 887px;
+    top: 27.5em;
+    left: 55.4375em;
 }
 
 .tile14 {
     position: absolute; 
-    top: 440px;
-    left: 983px;
+    top: 27.5em;
+    left: 61.4375em;
     border: pink solid 5px;
 }
 
 .tile15 {
     position: absolute; 
-    top: 565px;
-    left: 700px;
+    top: 35.3125em;
+    left: 38.125em;
 }
 
 .tile16 {
     position: absolute; 
-    top: 565px;
-    left: 885px;
+    top: 35.3125em;
+    left: 55.3125em;
 }
 
 .tile17 {
     position: absolute; 
-    top: 565px;
-    left: 790px;
+    top: 35.3125em;
+    left: 49.375em;
 }
 
 .tile18 {
     position: absolute; 
-    top: 250px;
-    left: 650px;
+    top: 15.625em;
+    left: 40.625em;
 }
 
 .tile19 {
     position: absolute; 
-    top: 375px;
-    left: 650px;
+    top: 23.4375em;
+    left: 40.625em;
 }
 
 .tile20 {
     position: absolute; 
-    top: 375px;
-    left: 742px;
+    top: 23.4375em;
+    left: 46.375em;
 }
