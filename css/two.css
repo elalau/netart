@@ -12,22 +12,12 @@ main {
     padding: 10px;
 }
 
-.tile1 {
-    position: absolute;
-    top: 70px;
-    left: 700px;
-}
-
-.tile1:hover {
-    border: solid 3px yellow;
-    cursor: pointer; 
-}
-
 .tile2 {
     position: absolute;
     top: 193px;
     left:610px;
 }
+
 
 .tile3 {
     position: absolute;
@@ -93,14 +83,9 @@ main {
     position: absolute; 
     top: 440px;
     left: 887px;
-}
-
-.tile14 {
-    position: absolute; 
-    top: 440px;
-    left: 983px;
     border: pink solid 5px;
 }
+
 
 .tile15 {
     position: absolute; 
@@ -130,6 +115,11 @@ main {
     position: absolute; 
     top: 375px;
     left: 650px;
+}
+
+.tile19:hover {
+    border: solid 3px yellow;
+    cursor: pointer; 
 }
 
 .tile20 {
