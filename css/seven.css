@@ -13,17 +13,11 @@ main {
     padding: 10px;
 }
 
-.tile2 {
-    position: absolute;
-    top: 193px;
-    left:610px;
-    border: pink solid 5px;
-}
-
 .tile3 {
     position: absolute;
     top: 193px;
     right: 710px;
+    border: pink solid 5px;
 }
 
 .tile4 {
@@ -42,6 +36,11 @@ main {
     position: absolute; 
     top: 318px;
     left: 795px;
+}
+
+.tile9:hover {
+    border: solid 3px yellow;
+    cursor: pointer; 
 }
 
 
@@ -67,15 +66,4 @@ main {
     position: absolute; 
     top: 565px;
     left: 885px;
-}
-
-.tile17 {
-    position: absolute; 
-    top: 565px;
-    left: 790px;
-}
-
-.tile17:hover {
-    border: solid 3px yellow;
-    cursor: pointer; 
 }
