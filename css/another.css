@@ -1,7 +1,11 @@
+html {
+    font-size: 16px; 
+}
+
 body {
     background-image: url("../img/bg_one.png");
-    background-size:cover;
-    max-width: 1000px;
+    background-size:no-repeat;
+    max-width: 1000em;
     margin: 0 auto; 
 }
 
@@ -33,13 +37,13 @@ main {
 .tile3 {
     position: absolute;
     top: 12.0625em;
-    right: 44.375em;
+    left: 43.75em;
 }
 
 .tile4 {
     position: absolute;
     top: 12.0625em;
-    right: 38.625em;
+    left: 49.6875em;
 }
 
 .tile5 {
@@ -63,7 +67,7 @@ main {
 .tile8 {
     position: absolute; 
     top: 19.875em;
-    left: 38.125em;
+    left: 44.375em;
 }
 
 .tile9 {
@@ -80,8 +84,8 @@ main {
 
 .tile11 {
     position: absolute; 
-    top: 427.5em;
-    left: 38.125em;
+    top: 27.5em;
+    left: 43.75em;
 }
 
 .tile12 {
@@ -106,7 +110,7 @@ main {
 .tile15 {
     position: absolute; 
     top: 35.3125em;
-    right: 44.375em;
+    left: 43.75em;
 }
 
 .tile16 {

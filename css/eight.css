@@ -15,20 +15,20 @@ main {
 
 .tile4 {
     position: absolute;
-    top: 193px;
-    right: 618px;
+    top: 12.0625em;
+    left: 49.6875em;
 }
 
 .tile8 {
     position: absolute; 
-    top: 318px;
-    left: 700px;
+    top: 19.875em;
+    left: 44.375em;
 }
 
 .tile10 {
     position: absolute; 
-    top: 440px;
-    left: 610px;
+    top: 27.5em;
+    left: 38.125em;
 }
 
 .tile10:hover {
@@ -36,21 +36,23 @@ main {
     cursor: pointer; 
 }
 
+
 .tile11 {
     position: absolute; 
-    top: 440px;
-    left: 700px;
+    top: 27.5em;
+    left: 43.75em;
 }
 
 .tile12 {
     position: absolute; 
-    top: 440px;
-    left: 792px;
+    top: 27.5em;
+    left: 49.5em;
     border: pink solid 5px;
 }
 
 .tile16 {
     position: absolute; 
-    top: 565px;
-    left: 885px;
+    top: 35.3125em;
+    left: 55.3125em;
 }
+
