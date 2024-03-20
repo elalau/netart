@@ -9,15 +9,19 @@ body {
 header {
     width: 100%; 
     margin: 100px 0px; 
-    font-family: 'Monoton', cursive;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     text-align: center;
     padding: 10px;
+}
+
+p {
+    color: yellow;
 }
 
 main {
     width: 100%; 
     margin: 20px 0px; 
-    font-family: 'Monoton', cursive;
+    font-family:
     text-align: center;
     padding: 10px;
 }
