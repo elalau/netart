@@ -13,6 +13,18 @@ main {
     padding: 10px;
 }
 
+button {
+    position: absolute;
+    top: 3em; 
+    left: 128em;
+    background-color: rgba(207, 205, 188, 0.747);
+}
+
+button:hover {
+    cursor: pointer;
+}
+
+
 .tile4 {
     position: absolute;
     top: 12.0625em;

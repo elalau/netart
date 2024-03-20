@@ -31,6 +31,29 @@
             </a>
             <img class="tile17" src="img/tile_bamboo.png" width="100">
             <img class="tile16" src="img/tile_blue.png" width="100">
+            <button id="ASong" onClick="playPause()">
+                <audio
+                  src="img/song.mp3"
+                  autoplay
+                  loop
+                ></audio>
+                <h1> 🎵 </h1>
+            </button>
+              
+            <script>
+                var aud = document.getElementById("ASong").children[0];
+                var isPlaying = false;
+                aud.pause();
+              
+                function playPause() {
+                  if (isPlaying) {
+                    aud.pause();
+                  } else {
+                    aud.play();
+                  }
+                  isPlaying = !isPlaying;
+                }
+            </script>
         </main>
     </body>
     </html>
