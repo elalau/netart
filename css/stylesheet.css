@@ -21,7 +21,7 @@ p {
 main {
     width: 100%; 
     margin: 20px 0px; 
-    font-family:
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     text-align: center;
     padding: 10px;
 }
@@ -41,4 +41,21 @@ button:hover {
     background-color: blue;
     color: white;
     cursor: pointer; 
+}
+
+@media screen and (max-width: 400px) {
+    body {
+        background-color:darkgreen;
+    }
+
+    img {
+        max-width: 300px;
+        margin-top: 175px;
+    }
+
+    p {
+        max-width: 250px;
+        margin: auto;
+        margin-top: 100px;
+    }
 }
